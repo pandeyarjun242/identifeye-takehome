@@ -3,10 +3,10 @@
 ## Implements a Simple Patient-Exam processing system
 
 # Format for running file:
-1. python process.py [input file name]
+1. python process.py [input file name]. 
 Eg: python process.py input.txt
 
-Sample Input:
+Sample Input File:
 
 ADD PATIENT 123 JOHN DOE  
 ADD PATIENT 321 JOE SCMOE  
