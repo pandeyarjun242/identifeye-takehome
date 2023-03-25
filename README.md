@@ -1,8 +1,8 @@
-### identifeye-takehome
+# identifeye-takehome
 
 ## Implements a Simple Patient-Exam processing system
 
-# Format for running file:
+### Format for running file:
 1. python process.py [input file name]  
 Eg: python process.py input.txt
 
