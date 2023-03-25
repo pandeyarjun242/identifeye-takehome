@@ -2,9 +2,9 @@
 
 ## Implements a Simple Patient-Exam processing system
 
-# To change input file. 
-1. Open process.py
-2. Change file name in line 70
+# Format for running file:
+1. python process.py [input file name]
+Eg: python process.py input.txt
 
 Sample Input:
 
