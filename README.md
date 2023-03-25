@@ -17,6 +17,6 @@ ADD EXAM 789 445
 ADD EXAM 789 554  
 DEL PATIENT 321  
 
-Sample Output:
-Name: JOHN DOE, Id: 123, Exam Count: 0
-Name: JANE CROW, Id: 789, Exam Count: 2
+Sample Output:  
+Name: JOHN DOE, Id: 123, Exam Count: 0  
+Name: JANE CROW, Id: 789, Exam Count: 2  
